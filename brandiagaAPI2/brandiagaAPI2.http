@@ -1,0 +1,6 @@
+@brandiagaAPI2_HostAddress = http://localhost:5117
+
+GET {{brandiagaAPI2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
